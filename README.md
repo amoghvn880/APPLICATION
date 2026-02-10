@@ -1,4 +1,4 @@
-# Online Registration Form - Programming Assignment 2
+
 
 A web application for online student registration built with HTML, CSS, JavaScript, jQuery, and PHP.
 
@@ -67,20 +67,4 @@ A web application for online student registration built with HTML, CSS, JavaScri
 └── README.md           # Documentation
 ```
 
-## GitHub Hosting
 
-This project is hosted on GitHub. To view the code:
-1. Visit the repository
-2. Clone or download the files
-3. Follow installation instructions above
-
-## Assignment Details
-
-- **Course**: Programming Assignment 2
-- **Due Date**: December 19
-- **Marks**: 5
-- **Objective**: Build a web application with form validation and PHP processing
-
-## Author
-
-Student Registration System - 2024
